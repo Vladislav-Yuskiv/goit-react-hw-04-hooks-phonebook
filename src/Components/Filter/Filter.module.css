@@ -1,0 +1,16 @@
+.title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 30px;
+}
+.label {
+  margin-left: 30px;
+}
+.input {
+  margin-left: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 20px;
+}
+.input:focus {
+  border: 1px solid blue;
+}
